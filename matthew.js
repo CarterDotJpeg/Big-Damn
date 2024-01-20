@@ -1,0 +1,5 @@
+function Apple() {
+    const favoriteList=[
+
+    ];
+}
